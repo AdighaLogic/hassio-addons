@@ -7,7 +7,7 @@ Share your configuration over the network
 ## About
 
 This Add-on allows you to enable file sharing across different operating systems over a network. 
-It lets you acess your config files with Windows and macOS devices.
+It lets you access your config files with Windows and macOS devices.
 
 ## Installation
 
@@ -19,7 +19,7 @@ The installation of this add-on is straightforward and easy to do.
 
 ## How to use
 
-In the configuration section, define a username and password and save teh configuratione 
+In the configuration section, define a username and password and save the configuration 
 
 
 1. Start the add-on.
